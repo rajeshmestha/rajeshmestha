@@ -2,7 +2,7 @@
 
 ### 🧠 ECE Student | Electronics Enthusiast | Passionate Coder
 
-I’m currently pursuing my **B.Tech in Electronics and Communication Engineering (ECE)**. I am deeply passionate about **Technology**, **Electronics**, and **Coding**, and I'm always eager to apply my knowledge to both **software** and **hardware** projects.
+I recently graduated **B.Tech in Electronics and Communication Engineering (ECE)**. I am deeply passionate about **Technology**, **Electronics**, and **Coding**, and I'm always eager to apply my knowledge to both **software** and **hardware** projects.
 
 ---
 
